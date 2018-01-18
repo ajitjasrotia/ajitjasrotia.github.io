@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Linear Regression Algorithm Implementation from scratch in Python"
-date:   2018-01-13
-categories: Machine Learning
+date:   2018-01-18
 ---
 <code>
 #Linear Regression Algorithm Implementation from scratch in Python
