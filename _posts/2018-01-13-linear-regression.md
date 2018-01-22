@@ -4,6 +4,8 @@ title:  "Linear Regression Algorithm Implementation from scratch in Python"
 date:   2018-01-13
 categories: Machine Learning
 ---
+Linear regression is a statistical procedure for predicting the value of a dependent variable from an independent variable when the relationship between the variables can be described with a linear model. 
+
 ```python
 #Linear Regression Algorithm Implementation from scratch in Python
 import numpy as np
