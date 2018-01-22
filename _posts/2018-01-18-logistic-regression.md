@@ -3,7 +3,8 @@ layout: post
 title:  "Logistic Regression Algorithm Implementation from scratch in Python"
 date:   2018-01-18
 ---
-<code>
+
+{% highlight ruby linenos %}
 #Logistic Regression Algorithm Implementation from scratch in Python
 import numpy as np
 import pandas as pd
@@ -48,4 +49,4 @@ for i in range(iterations):
 
 plt.plot(np.arange(iterations),lossgraph)
 plt.show()
-</code>
+{% endhighlight %}
