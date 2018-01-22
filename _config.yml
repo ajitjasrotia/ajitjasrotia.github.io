@@ -8,7 +8,7 @@ location: Chandigarh, India
 company: Constalytics
 company_url: https://constalytics.com
 github_url: https://github.com/ajitjasrotia 
-github_username: Ajit Jasrotia 
+github_username: AjitJasrotia 
 description: Machine Learning is site for new candidate that are trying to learn Machine Learning from basics.
 favicon: favicon.png 
 repository: ajitjasrotia/ajitjasrotia.github.io 
@@ -46,7 +46,7 @@ disque: my_disque_settings # ex. httpdongchuangithubio.disqus.com
 # Pagination
 paginate: 10
 paginate_path: 'page:num'
-
+Logistic Regression is a classification algorithm. It is used to predict a binary outcome (1 / 0, Yes / No, True / False) given a set of independent variables. To represent binary / categorical outcome, we use dummy variables. You can also think of logistic regression as a special case of linear regression when the outcome variable is categorical, where we are using log of odds as dependent variable. In simple words, it predicts the probability of occurrence of an event by fitting data to a logit function.
 # Navigation. If you do not like these modules, just remove them :
 navs:
   -
@@ -66,10 +66,4 @@ navs:
     label: About
 
 # Sidebar to show popular repo
-side_bar_repo_limit: 5 # Number of repos to show
-
-# For about.html. Fell free to create your own!
-skill_software_keywords: [Java, C, C++, Qt, Python, MySQL, Oracle, SQLite, PL/SQL, Design Patterns]
-skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
-skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, AngularJS, NodeJS, ExpressJS, MongoDB, Redis, PHP, Symfony, Boostrap]
-skill_mobile_app_keywords: [Android, Sketch UI Desgin]
+side_bar_repo_limit: 5 
