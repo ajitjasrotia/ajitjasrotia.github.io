@@ -4,19 +4,18 @@ title:  "Linear Regression Algorithm Implementation from scratch in Python"
 date:   2018-01-13
 categories: Machine Learning
 ---
-{% highlight css %}
+```python
 #Linear Regression Algorithm Implementation from scratch in Python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-'''
+
 # Load Dataset
 dataset = pd.read_csv('')
 
 # Split Training  and Testing Dataset for Linear Regression
 
 
-'''
 # Testing  Dataset for Linear Regression
 X_train=np.array([2,3,4,5,6,7,8,9,10,11,12,13]).reshape(4,3)
 Y_train=np.array([7,8,4,7])
@@ -49,4 +48,4 @@ for i in range(iterations):
 
 plt.plot(np.arange(iterations),lossgraph)
 plt.show()
-{% endhighlight %}
+```
